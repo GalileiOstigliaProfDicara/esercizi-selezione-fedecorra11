@@ -6,8 +6,22 @@ Kelvin = Celsius + 273,15*/
 #include <stdio.h>
 
 int main(){
-    int temp_celsius, temp_fahrenheit, temp_kelvin;
-    print
+    float temp_celsius, temp_fahrenheit, temp_kelvin;
+    printf("Inserisci la temperatura in celsius");
+    scanf("%f", &temp_celsius);
 
-    return 0;
+    if("temp_celsius < -273,15");{
+    printf("errore");
+
+    } else {
+        temp_kelvin = temp_celsius + 273,15;
+        temp_fahrenheit = (9/5) * temp_celsiusc + 32;
+        printf("la temperatura in kelvin è %f/n, temp_kelvin");
+        printf("la te,peratura in fahrenheit è %f/n, temp_fahrenheit");
+
+    }
+
+    }
+    
+ return 0;
 }
