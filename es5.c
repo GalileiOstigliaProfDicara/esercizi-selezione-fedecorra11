@@ -6,6 +6,8 @@ Kelvin = Celsius + 273,15*/
 #include <stdio.h>
 
 int main(){
+    int temp_celsius, temp_fahrenheit, temp_kelvin;
+    print
 
     return 0;
 }
